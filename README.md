@@ -1,3 +1,3 @@
-## Web-Crawling-Example
+## Shopping Mall Notebook Crawler
 
-#### Examples of web crawl using selenium
+#### Shopping Mall Notebook Crawler using selenium
